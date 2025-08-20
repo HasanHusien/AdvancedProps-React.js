@@ -1,0 +1,25 @@
+/* .perant {
+  width: 80%;
+  margin: auto;
+} */
+article {
+  width: 40%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 8px 20px rgba(0, 0, 0, 0.1),
+    0 12px 40px rgba(0, 0, 0, 0.05);
+  padding: 8px;
+  text-align: start;
+}
+article .my-cate {
+  width: 100%;
+  display: block;
+  margin: auto;
+  padding: 0;
+}
+article .my-phone,
+article .my-msg {
+  width: 20px;
+}
+article h1 {
+  margin: 0;
+  padding: 5px;
+}
